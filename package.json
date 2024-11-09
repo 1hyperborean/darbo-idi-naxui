@@ -1,0 +1,19 @@
+{
+	"name": "racxa-yleoba",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js",
+		"dev": "nodemon"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^3.1.7"
+	},
+	"dependencies": {
+		"ejs": "^3.1.10"
+	}
+}
